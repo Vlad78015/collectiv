@@ -88,3 +88,6 @@ let chuVaki = [
 
 let chuvakiName = chuVaki.map(chuvak => chuvak.name)
 console.log(chuvakiName)
+
+let chuvakiColor = chuVaki.map(chuvak => chuvak.eyeColor)
+console.log(chuvakiColor)
